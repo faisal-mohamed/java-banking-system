@@ -5,7 +5,7 @@ public class Bank {
         Scanner in = new Scanner(System.in);
         BankSystem bank = new BankSystem();
         bank.RegUser("kunal", "kunal");
-        bank.RegUser("rahul", "rahul");
+        bank.RegUser("kushwaha", "kushwaha");
 
         int x = 10;
 
